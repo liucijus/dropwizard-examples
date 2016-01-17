@@ -1,0 +1,7 @@
+database:
+  driverClass: com.mysql.jdbc.Driver
+  url: jdbc:mysql://localhost:3306/dropwizard
+  user: dropwizard
+  password: dropwizard
+  properties:
+    charSet: UTF-8
